@@ -1,0 +1,12 @@
+body {
+    background-color: #f7f7f7;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    max-width: 600px;
+    margin-top: 50px;
+}
